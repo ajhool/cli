@@ -76,6 +76,7 @@
     "libnpmaccess": "^3.0.0",
     "libnpmhook": "^5.0.2",
     "libnpmorg": "^1.0.0",
+    "libnpmsearch": "^2.0.0",
     "libnpmteam": "^1.0.1",
     "libnpx": "^10.2.0",
     "lock-verify": "^2.0.2",
@@ -267,7 +268,8 @@
     "stringify-package",
     "libnpmaccess",
     "libnpmorg",
-    "libnpmteam"
+    "libnpmteam",
+    "libnpmsearch"
   ],
   "devDependencies": {
     "deep-equal": "~1.0.1",
